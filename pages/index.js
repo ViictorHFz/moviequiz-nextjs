@@ -32,7 +32,7 @@ export default function Home() {
         <Widget>
 
           <Widget.Header>
-            <h1>MEU OVO ESQUERDO</h1>
+            <h1>TESTE TESTADO</h1>
           </Widget.Header>
 
           <Widget.Content>
